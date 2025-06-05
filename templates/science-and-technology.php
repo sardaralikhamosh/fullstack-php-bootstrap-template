@@ -238,7 +238,7 @@ $metaDescription = "At Elemental Biologics, we apply precision immunology to dev
                 <div class="row">
                     <div class="col-12 py-3">  <!-- py-3 adds 1rem (16px) padding top and bottom -->
                         <div class="w-100">  <!-- w-100 makes container full width -->
-                            <img src="./images/science-img1.png" class="img-fluid" alt="Science Diagram"><br><br>
+                            <!-- <img src="./images/science-img1.png" class="img-fluid" alt="Science Diagram"><br><br> -->
                             
                                 <p class="mb-0 custom-paragraph">With a strategic focus on discovering mAbs targeting the key Interleukins (ILs) which regulate immune responses by mediating inflammation, immune cell activation, and tissue repair.</p>
                         </div>

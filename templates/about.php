@@ -230,7 +230,7 @@ $metaDescription = "Learn about our biotech company focused on developing innova
         </section>
         
         <!-- Research Focus -->
-        <section class="research-section">
+      <!--   <section class="research-section">
             <h2 class="section-subtitle">Research Focus</h2>
             <p class="feature-text">
                 Our research focuses on developing novel monoclonal antibodies that target specific immune pathways implicated in inflammatory diseases. By precisely targeting these pathways, our therapies aim to provide effective treatment options with fewer side effects than current treatments.
@@ -244,7 +244,7 @@ $metaDescription = "Learn about our biotech company focused on developing innova
                 <li class="feature-text">Inflammatory skin conditions (psoriasis and atopic dermatitis)</li>
                 <li class="feature-text">Rare inflammatory disorders with limited treatment options</li>
             </ul>
-        </section>
+        </section> -->
         
         <!-- Contact CTA -->
         <section class="contact-cta">

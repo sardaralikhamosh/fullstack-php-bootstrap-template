@@ -12,30 +12,16 @@
         <div class="science-tech-container">
             <div class="row g-0">
                 <!-- Content Column -->
-                <div class="col-lg-5 col-md-12 content-column">
-                    <div class="content-wrapper">
-                        <h2>Science &<br>Technology</h2>
-                        
-                        <p class="intro-text feature-text">
-                            At Elemental Biologics, we apply precision immunology to develop innovative monoclonal antibody (mAb) therapies. Our drug discovery platform combines scientific expertise with advanced technologies to address complex immune-driven diseases.
+                <div class="col-lg-5 col-md-12 about-content-wrapper">
+                    <div class="about-content">
+                        <h2>Elemental Biologics</h2>
+                        <p class="mb-4 feature-text">
+                            At Elemental Biologics, we apply precision immunology to develop innovative monoclonal antibody (mAb) therapies. 
                         </p>
-                        
-                        <div class="approach-item ">
-                            <h3><span class="number">1.</span> Targeted Discovery</h3>
-                            <p class="feature-text">We identify key immune pathways involved in multiple diseases, enabling cross-indication therapies with a single antibody.</p>
-                            <div class="divider"></div>
-                        </div>
-                        
-                        <div class="approach-item">
-                            <h3><span class="number">2.</span> Advanced Antibody Engineering</h3>
-                            <p class="feature-text">We use state-of-the-art techniques to design and optimize mAbs for maximum precision, potency, and safety.</p>
-                            <div class="divider"></div>
-                        </div>
-                        
-                        <div class="approach-item">
-                            <h3><span class="number">3.</span> Translational Development</h3>
-                            <p class="feature-text">We advance promising candidates through rigorous preclinical models ensuring strong efficacy and safety, advancing candidates with real-world impact.</p>
-                        </div>
+                        <p class="mb-5 feature-text">
+                            Our drug discovery platform combines scientific expertise with advanced technologies to address complex immune-driven diseases.
+                        </p>
+                        <a href="science-and-technology.php" class="btn btn-primary learn-more-btn">Learn More</a>
                     </div>
                 </div>
                 
@@ -53,6 +39,10 @@
 <style>
     section.container-fluid{
         padding: 0;
+    }
+     .about-content-wrapper {
+        display: flex;
+        align-items: center;
     }
     .science-tech-detail-section {
         position: relative;

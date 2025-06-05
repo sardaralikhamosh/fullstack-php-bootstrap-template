@@ -17,13 +17,15 @@
     <main class="container-fluid">
         <?php include "slider.php"; ?>
         <?php include "sections/section-1.php"; ?>
-        <?php include('section-1.php'); ?>
+        <?php include "sections/section-7.php"; ?>
+       <?php include "sections/section-4.php"; ?>
         <section class="container-fluid">
             <?php include('section-2.php'); ?>
+            <?php include "sections/section-8.php"; ?>
+            <?php include('section-3.php'); ?>
         </section>
-        <br>
-        <?php include('section-3.php'); ?>
-        <br>
+        <?php include "sections/section-6.php"; ?>
+
     </main>
 
     <!-- Footer -->
