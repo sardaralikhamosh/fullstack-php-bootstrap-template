@@ -201,35 +201,35 @@ $metaDescription = "At Elemental Biologics, we apply precision immunology to dev
     
 
         <!-- About Us Section -->
-        <section class="about-section">
-            <h3>At Elemental Biologics, we apply precision immunology to develop innovative monoclonal antibody (mAb) therapies. Our drug discovery platform combines scientific expertise with advanced technologies to address complex immune-driven diseases.</h3>
-        </section>
-        <section class="about-section">
-            <div class="about-content">
-                <div class="row g-4">
-                    <div class="col-md-4 col-sm-12">
-                        <div class="h-100 p-4 bg-white rounded shadow-sm">
-                            <h3 class="h4 mb-3">1. Targeted Discovery</h3>
-                            <p class="mb-0">We identify key immune pathways involved in multiple diseases, enabling cross-indication therapies with a single antibody.</p>
-                        </div>
-                    </div>
+        <!--<section class="about-section">-->
+        <!--    <h3>At Elemental Biologics, we apply precision immunology to develop innovative monoclonal antibody (mAb) therapies. Our drug discovery platform combines scientific expertise with advanced technologies to address complex immune-driven diseases.</h3>-->
+        <!--</section>-->
+        <!--<section class="about-section">-->
+        <!--    <div class="about-content">-->
+        <!--        <div class="row g-4">-->
+        <!--            <div class="col-md-4 col-sm-12">-->
+        <!--                <div class="h-100 p-4 bg-white rounded shadow-sm">-->
+        <!--                    <h3 class="h4 mb-3">1. Targeted Discovery</h3>-->
+        <!--                    <p class="mb-0">We identify key immune pathways involved in multiple diseases, enabling cross-indication therapies with a single antibody.</p>-->
+        <!--                </div>-->
+        <!--            </div>-->
                     
-                    <div class="col-md-4 col-sm-12">
-                        <div class="h-100 p-4 bg-white rounded shadow-sm">
-                            <h3 class="h4 mb-3">2. Advanced Antibody Engineering</h3>
-                            <p class="mb-0">We use state-of-the-art techniques to design and optimize mAbs for maximum precision, potency, and safety.</p>
-                        </div>
-                    </div>
+        <!--            <div class="col-md-4 col-sm-12">-->
+        <!--                <div class="h-100 p-4 bg-white rounded shadow-sm">-->
+        <!--                    <h3 class="h4 mb-3">2. Advanced Antibody Engineering</h3>-->
+        <!--                    <p class="mb-0">We use state-of-the-art techniques to design and optimize mAbs for maximum precision, potency, and safety.</p>-->
+        <!--                </div>-->
+        <!--            </div>-->
                     
-                    <div class="col-md-4 col-sm-12">
-                        <div class="h-100 p-4 bg-white rounded shadow-sm">
-                            <h3 class="h4 mb-3">3. Translational Development</h3>
-                            <p class="mb-0">We advance promising candidates through rigorous preclinical models ensuring strong efficacy and safety, advancing candidates with real-world impact.</p>
-                        </div>
-                    </div>
-                </div>             
-                </div>
-            </section>
+        <!--            <div class="col-md-4 col-sm-12">-->
+        <!--                <div class="h-100 p-4 bg-white rounded shadow-sm">-->
+        <!--                    <h3 class="h4 mb-3">3. Translational Development</h3>-->
+        <!--                    <p class="mb-0">We advance promising candidates through rigorous preclinical models ensuring strong efficacy and safety, advancing candidates with real-world impact.</p>-->
+        <!--                </div>-->
+        <!--            </div>-->
+        <!--        </div>             -->
+        <!--        </div>-->
+        <!--    </section>-->
         
         <!-- Mission Section -->
         <!-- section 3 starts -->

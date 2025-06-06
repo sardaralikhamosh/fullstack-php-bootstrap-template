@@ -26,6 +26,7 @@
         </div>
     </div>
         <section class="container">
+             <?php include "sections/section-9.php"; ?>
             <?php include('templates/science-and-technology.php'); ?>
         </section>
     </main>
