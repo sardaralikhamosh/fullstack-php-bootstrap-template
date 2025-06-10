@@ -24,16 +24,16 @@
                 <h5 class="text-uppercase mb-4">Quick Links</h5>
                 <ul class="list-unstyled">
                     <li class="mb-2">
-                        <a href="/test/about.php" class="feature-text text-white text-decoration-none hover-underline">Our Services</a>
+                        <a href="/about.php" class="feature-text text-white text-decoration-none hover-underline">About Us</a>
                     </li>
                     <li class="mb-2">
-                        <a href="/test/about.php" class="feature-text text-white text-decoration-none hover-underline">Mission</a>
+                        <a href="/about.php" class="feature-text text-white text-decoration-none hover-underline">Mission</a>
                     </li>
                     <li class="mb-2">
-                        <a href="/test/about.php" class="feature-text text-white text-decoration-none hover-underline">Pharmacore Market Tracker</a>
+                        <a href="/about.php" class="feature-text text-white text-decoration-none hover-underline">Vision</a>
                     </li>
                     <li class="mb-2">
-                        <a href="/test/about.php" class="feature-text text-white text-decoration-none hover-underline">Pharmaceutical Market Directory</a>
+                        <a href="/contact.php" class="feature-text text-white text-decoration-none hover-underline">Contact Us</a>
                     </li>
                 </ul>
             </div>
@@ -43,16 +43,16 @@
                 <h5 class="text-uppercase mb-4">Useful Links</h5>
                 <ul class="list-unstyled">
                     <li class="mb-2">
-                        <a href="/test/about.php" class="feature-text text-white text-decoration-none hover-underline">New Market Analysis</a>
+                        <a href="/science-and-technology.php" class="feature-text text-white text-decoration-none hover-underline">Science & Technology</a>
                     </li>
                     <li class="mb-2">
-                        <a href="/test/about.php" class="feature-text text-white text-decoration-none hover-underline">Process Development</a>
+                        <a href="/pipeline.php" class="feature-text text-white text-decoration-none hover-underline">Pipeline</a>
                     </li>
                     <li class="mb-2">
-                        <a href="/test/about.php" class="feature-text text-white text-decoration-none hover-underline">Drug Certification</a>
+                        <a href="/teams.php" class="feature-text text-white text-decoration-none hover-underline">Leadership & Team</a>
                     </li>
                     <li class="mb-2">
-                        <a href="/test/about.php" class="feature-text text-white text-decoration-none hover-underline">Market Development</a>
+                        <a href="/career.php" class="feature-text text-white text-decoration-none hover-underline">Career</a>
                     </li>
                 </ul>
             </div>
@@ -62,16 +62,13 @@
                 <h5 class="text-uppercase mb-4">Preparation Tips</h5>
                 <ul class="list-unstyled">
                     <li class="mb-2">
-                        <a href="/test/about.php" class="feature-text text-white text-decoration-none hover-underline">Before Your Blood Test</a>
+                        <a href="/about.php" class="feature-text text-white text-decoration-none hover-underline">Targeted Discovery</a>
                     </li>
                     <li class="mb-2">
-                        <a href="/test/about.php" class="feature-text text-white text-decoration-none hover-underline">What to Expect During the Draw</a>
+                        <a href="/about.php" class="feature-text text-white text-decoration-none hover-underline">Advanced Antibody Engineering</a>
                     </li>
                     <li class="mb-2">
-                        <a href="/test/about.php" class="feature-text text-white text-decoration-none hover-underline">After Your Blood Test</a>
-                    </li>
-                    <li class="mb-2">
-                        <a href="/test/about.php" class="feature-text text-white text-decoration-none hover-underline">Where do I Go for a Blood Draw?</a>
+                        <a href="/about.php" class="feature-text text-white text-decoration-none hover-underline">Translational Development</a>
                     </li>
                 </ul>
             </div>
