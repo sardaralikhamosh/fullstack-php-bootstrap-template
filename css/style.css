@@ -1,6 +1,10 @@
-
+.elemental-paragraph{
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+}
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif !important;
     line-height: 1.6;
 }
 

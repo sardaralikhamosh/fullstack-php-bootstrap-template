@@ -27,6 +27,7 @@
     </div>
         <section class="container">
             <?php include('templates/about.php'); ?>
+            <?php include('sections/about-us-section-2.php'); ?>
         </section>
     </main>
 

@@ -19,11 +19,13 @@
         }
         
         .navbar-nav .nav-link {
-            color: #333;
+            color: #333333;
             font-weight: 500;
             padding: 0 15px;
+            font-size: 16px;
             text-transform: uppercase;
-            transition: color 0.3s ease;
+            line-height: 26px;
+            font-style: normal;
         }
         
         .navbar-nav .nav-link:hover {
