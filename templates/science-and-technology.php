@@ -5,6 +5,11 @@ $metaDescription = "At Elemental Biologics, we apply precision immunology to dev
 ?>
 
     <style>
+        .section2p{
+            color: #555;
+            font-size: 16px;
+            line-height: 26px;
+        }
         .science-tech-section {
             padding: 30px 0;
             background-color: #f8f9fa;
@@ -31,7 +36,7 @@ $metaDescription = "At Elemental Biologics, we apply precision immunology to dev
     </style>
     <section class="science-tech-section">
         <div class="container">
-            <p>At Elemental Biologics, we apply precision immunology to develop innovative monoclonal antibody (mAb) therapies. Our drug discovery platform combines scientific expertise with advanced technologies to address complex immune-driven diseases.</p>
+            <p class="section2p">At Elemental Biologics, we apply precision immunology to develop innovative monoclonal antibody (mAb) therapies. Our drug discovery platform combines scientific expertise with advanced technologies to address complex immune-driven diseases.</p>
             <br>
             
             
@@ -42,7 +47,7 @@ $metaDescription = "At Elemental Biologics, we apply precision immunology to dev
                         <img src="./images/SandT/img 1.jpg" class="card-img-top" alt="Targeted Discovery">
                         <div class="card-body">
                             <h3 class="card-title">TARGETED DISCOVERY</h3>
-                            <p class="card-text">We identify key immune pathways involved in multiple diseases, enabling cross-indication therapies with a single antibody.</p>
+                            <p class="section2p">We identify key immune pathways involved in multiple diseases, enabling cross-indication therapies with a single antibody.</p>
                         </div>
                     </div>
                 </div>
@@ -53,7 +58,7 @@ $metaDescription = "At Elemental Biologics, we apply precision immunology to dev
                         <img src="./images/SandT/img 2.jpg" class="card-img-top" alt="Advanced Antibody Engineering">
                         <div class="card-body">
                             <h3 class="card-title">ADVANCED ANTIBODY ENGINEERING</h3>
-                            <p class="card-text">We use state-of-the-art techniques to design and optimize mAbs for maximum precision, potency, and safety.</p>
+                            <p class="section2p">We use state-of-the-art techniques to design and optimize mAbs for maximum precision, potency, and safety.</p>
                         </div>
                     </div>
                 </div>
@@ -64,7 +69,7 @@ $metaDescription = "At Elemental Biologics, we apply precision immunology to dev
                         <img src="./images/SandT/img 3.jpg" class="card-img-top" alt="Translational Development">
                         <div class="card-body">
                             <h3 class="card-title">TRANSLATIONAL DEVELOPMENT</h3>
-                            <p class="card-text">We advance promising candidates through rigorous preclinical models advancing candidates with real-world impact.</p>
+                            <p class="section2p">We advance promising candidates through rigorous preclinical models advancing candidates with real-world impact.</p>
                         </div>
                     </div>
                 </div>
@@ -92,7 +97,7 @@ $metaDescription = "At Elemental Biologics, we apply precision immunology to dev
                     <div class="col-12 py-3">  <!-- py-3 adds 1rem (16px) padding top and bottom -->
                         <div class="w-100">  <!-- w-100 makes container full width -->
                            
-                                <p class="mb-0 custom-paragraph">With a strategic focus on discovering mAbs targeting the key Interleukins (ILs) which regulate immune responses by mediating inflammation, immune cell activation, and tissue repair.</p>
+                                <p class="mb-0 section2p">With a strategic focus on discovering mAbs targeting the key Interleukins (ILs) which regulate immune responses by mediating inflammation, immune cell activation, and tissue repair.</p>
                         </div>
                     </div>
                 </div>             

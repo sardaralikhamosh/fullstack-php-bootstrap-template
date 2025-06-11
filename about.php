@@ -29,6 +29,7 @@
             <?php include('templates/about.php'); ?>
             <?php include('sections/about-us-section-2.php'); ?>
         </section>
+        <br>
     </main>
 
     <!-- Footer -->

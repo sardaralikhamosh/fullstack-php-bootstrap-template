@@ -5,65 +5,11 @@ $metaDescription = "Learn about our biotech company focused on developing innova
 ?>
 
     <style>
-        /* CSS Reset and Base Styles */
-        /* Main Content Styles */
-      
-        
-        /* About Section Styles */
-        
-        .section-title {
-            font-size: 2.2rem;
-            color: #1f2937;
-            margin-bottom: 1rem;
-            font-weight: bold;
-            color: #1a2c41;
+         .section2p{
+            color: #555;
+            font-size: 16px;
+            line-height: 26px;
         }
-        
-        .about-content {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 2rem;
-            align-items: center;
-        }
-        
-        .about-text {
-            flex: 1;
-            min-width: 300px;
-        }
-        
-        .about-text p {
-            margin-bottom: 1.5rem;
-            font-size: 1.1rem;
-        }
-        
-        .about-image {
-            flex: 1;
-            min-width: 300px;
-            max-width: 600px;
-        }
-        
-        .about-image img {
-            width: 100%;
-            height: auto;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        
-        /* Mission, Vision, Values Styles */
-        .mission-section,
-        .vision-section,
-        .values-section {
-            margin-bottom: 3rem;
-        }
-        
-        .section-subtitle {
-            font-size: 1.8rem;
-            color: #1f2937;
-            margin-bottom: 1rem;
-            font-weight: bold;
-        }
-        
-        /* Team Section */
         .team-section {
             margin-bottom: 3rem;
         }
@@ -104,52 +50,7 @@ $metaDescription = "Learn about our biotech company focused on developing innova
 /*            font-style: italic;*/
             margin-bottom: 1rem;
         }
-        
-        /* Contact CTA Section */
-        .contact-cta {
-            background-color: #ffffff;
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-            padding: 2rem;
-            text-align: center;
-            margin-bottom: 3rem;
-        }
-        
-        .cta-button {
-            display: inline-block;
-            background-color: #2563eb;
-            color: white;
-            text-decoration: none;
-            padding: 0.75rem 1.5rem;
-            border-radius: 4px;
-            font-weight: 500;
-            margin-top: 1rem;
-            transition: background-color 0.3s;
-        }
-        
-        .cta-button:hover {
-            background-color: #1d4ed8;
-        }
-        
-        /* Footer Styles */
-        footer {
-            background-color: #1f2937;
-            color: white;
-            padding: 2rem 0;
-        }
-        
-        .footer-content {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 1rem;
-            text-align: center;
-        }
-        
-        .footer-text {
-            opacity: 0.8;
-        }
-        
-        /* Responsive Design */
+    
         @media (max-width: 768px) {
             .about-content {
                 flex-direction: column-reverse;
@@ -176,10 +77,6 @@ $metaDescription = "Learn about our biotech company focused on developing innova
                 margin-left: 0;
             }
             
-            .section-title {
-                font-size: 1.8rem;
-            }
-            
             .section-subtitle {
                 font-size: 1.5rem;
             }
@@ -193,15 +90,15 @@ $metaDescription = "Learn about our biotech company focused on developing innova
             <div class="about-content">
                 <div class="about-text">
                     <ul>
-                        <li><p class="feature-text">
+                        <li><p class="section2p feature-text">
                         <b>Collaboration:</b> We value teamwork and diverse perspectives to drive innovation.
                     </p></li>
                     <li>
-                    <p>
+                    <p class="section2p">
                         <b class="feature-text">Integrity:</b> We uphold transparency and ethical practices in all actions.
                     </p></li>
                     <li>
-                    <p>
+                    <p class="section2p">
                         <b>Continuous Learning:</b> We prioritize ongoing education and skill development.
                     </p></li>
                     <li>
@@ -210,7 +107,7 @@ $metaDescription = "Learn about our biotech company focused on developing innova
                     </p>
                     </li>
                     <li>
-                    <p class="feature-text">
+                    <p class="section2p feature-text">
                         <b>Supportive Environment:</b> We foster a workplace where everyone can thrive. Every team member's input and ideas are encouraged.
                     </p></li>
                     </ul>
@@ -221,7 +118,7 @@ $metaDescription = "Learn about our biotech company focused on developing innova
             <h3>Job listings</h3><br>
             <div class="about-content">
                 <div class="about-text">
-                    <p class="feature-text">
+                    <p class="section2p feature-text">
                         At Elemental Biologics, we're driven by a passion for science and a mission to transform care. We're always looking for talented individuals to join our team. Explore our current opportunities below to learn more and apply.
                     </p>
                 </div>

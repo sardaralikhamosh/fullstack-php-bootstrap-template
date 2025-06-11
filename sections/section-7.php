@@ -2,7 +2,7 @@
         .science-section {
             background-color: rgb(2, 32, 74);
             color: whitesmoke; /* deemwhite equivalent */
-            padding: 60px 0;
+            padding: 100px 0;
             min-height: 400px;
             width: 100%;
         }
@@ -18,12 +18,14 @@
     <section class="science-section">
         <div class="container-fluid">
             <div class="row justify-content-center">
-                <div class="col-12 science-content">
+                <center>
+                    <div class="col-12 science-content">
                     <h1 class="display-4 mb-4">About Elemental</h1>
                     <p class="lead">
                         At Elemental Biologics, we apply precision immunology to develop innovative monoclonal antibody (mAb) therapies. Our drug discovery platform combines scientific expertise with advanced technologies to address complex immune-driven diseases.
                     </p>
                 </div>
+                </center>
             </div>
         </div>
     </section>

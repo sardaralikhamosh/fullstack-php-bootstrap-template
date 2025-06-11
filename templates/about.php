@@ -7,7 +7,7 @@ $metaDescription = "Learn about our biotech company focused on developing innova
     <style>
          .section2p{
             color: #555;
-            font-size: 16px;
+            font-size: 16px !important;
             line-height: 26px;
         }
         
