@@ -5,11 +5,11 @@ $metaDescription = "Learn about our biotech company focused on developing innova
 ?>
 
     <style>
-        /* CSS Reset and Base Styles */
-        /* Main Content Styles */
-      
-        
-        /* About Section Styles */
+         .section2p{
+            color: #555;
+            font-size: 16px;
+            line-height: 26px;
+        }
         
         .section-title {
             font-size: 2.2rem;
@@ -47,106 +47,6 @@ $metaDescription = "Learn about our biotech company focused on developing innova
             height: auto;
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        
-        /* Mission, Vision, Values Styles */
-        .mission-section,
-        .vision-section,
-        .values-section {
-            margin-bottom: 3rem;
-        }
-        
-        .section-subtitle {
-            font-size: 1.8rem;
-            color: #1f2937;
-            margin-bottom: 1rem;
-            font-weight: bold;
-        }
-        
-        /* Team Section */
-        .team-section {
-            margin-bottom: 3rem;
-        }
-        
-        .team-members {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 2rem;
-            justify-content: center;
-        }
-        
-        .team-member {
-            flex: 1;
-            min-width: 250px;
-            max-width: 300px;
-            background-color: #ffffff;
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-            padding: 1.5rem;
-            text-align: center;
-        }
-        
-        .team-member img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            object-fit: cover;
-            margin-bottom: 1rem;
-        }
-        
-        .team-member h3 {
-            color: #1f2937;
-            margin-bottom: 0.5rem;
-        }
-        
-        .team-member p.position {
-            color: #4b5563;
-/*            font-style: italic;*/
-            margin-bottom: 1rem;
-        }
-        
-        /* Contact CTA Section */
-        .contact-cta {
-            background-color: #ffffff;
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-            padding: 2rem;
-            text-align: center;
-            margin-bottom: 3rem;
-        }
-        
-        .cta-button {
-            display: inline-block;
-            background-color: #2563eb;
-            color: white;
-            text-decoration: none;
-            padding: 0.75rem 1.5rem;
-            border-radius: 4px;
-            font-weight: 500;
-            margin-top: 1rem;
-            transition: background-color 0.3s;
-        }
-        
-        .cta-button:hover {
-            background-color: #1d4ed8;
-        }
-        
-        /* Footer Styles */
-        footer {
-            background-color: #1f2937;
-            color: white;
-            padding: 2rem 0;
-        }
-        
-        .footer-content {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 1rem;
-            text-align: center;
-        }
-        
-        .footer-text {
-            opacity: 0.8;
         }
         
         /* Responsive Design */
@@ -192,10 +92,10 @@ $metaDescription = "Learn about our biotech company focused on developing innova
             <h2 class="section-title">About us</h2>
             <div class="about-content">
                 <div class="about-text">
-                    <p class="feature-text">
+                    <p class="section2p">
                         We are a biotech company engaged in the discovery and development of monoclonal antibodies (mAbs) as next-generation treatments for autoimmune and other inflammatory diseases.
                     </p>
-                    <p class="feature-text">
+                    <p class="section2p">
                         Our innovative monoclonal antibody (mAb) development approach focuses on targeting multiple disease areas where effective therapies are unavailable.
                     </p>
                 </div>

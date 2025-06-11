@@ -1,4 +1,9 @@
     <style>
+        .section2p{
+            color: #555;
+            font-size: 16px;
+            line-height: 26px;
+        }
         .feature-card {
             height: 100%;
             display: flex;
@@ -79,7 +84,7 @@
                         <img src="./images/sections/section-1-i1.jpg" class="feature-img">
                         <div class="feature-content">
                             <h3 class="feature-title">A Unique And Transformative Therapeutic Antibody Platform</h3>
-                            <p class="mb-0">Elemental is engaged in the discovery and development of mAbs as next-generation treatments for multiple autoimmune & gastrointestinal inflammatory diseases.</p>
+                            <p class="section2p mb-0">Elemental is engaged in the discovery and development of mAbs as next-generation treatments for multiple autoimmune & gastrointestinal inflammatory diseases.</p>
                         </div>
                     </div>
                 </div>
@@ -90,7 +95,7 @@
                         <img src="./images/sections/section-1-i2.jpg" alt="Development Service" class="feature-img">
                         <div class="feature-content">
                             <h3 class="feature-title">Transforming Immune Pathways Into Multi-Disease Solutions</h3>
-                            <p class="mb-0">Elemental Biologics creates innovative treatments that target shared immune pathways to address multiple diseases with unmet medical needs, helping more patients while reducing risk and improving development efficiency.</p>
+                            <p class="section2p mb-0">Elemental Biologics creates innovative treatments that target shared immune pathways to address multiple diseases with unmet medical needs, helping more patients while reducing risk and improving development efficiency.</p>
                         </div>
                     </div>
                 </div>
@@ -101,7 +106,7 @@
                         <img src="./images/sections/section-1-i3.jpg" alt="Marketing Service" class="feature-img">
                         <div class="feature-content">
                             <h3 class="feature-title">Extensive Pipeline Of Assets Supported By Strong Data</h3>
-                            <p class="mb-0">Increasingly diversified pipeline of 5 advanced program assets with strategically commercially viable targets demonstrating the strength of our pre-clinical mAb discovery and development platform.</p>
+                            <p class="section2p mb-0">Increasingly diversified pipeline of 5 advanced program assets with strategically commercially viable targets demonstrating the strength of our pre-clinical mAb discovery and development platform.</p>
                         </div>
                     </div>
                 </div>

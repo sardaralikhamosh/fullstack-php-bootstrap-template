@@ -31,9 +31,9 @@
                                         </div>
                                         <h5 class="mb-3">Autoimmune Disorders</h5>
                                         <ul class="list-unstyled mb-0">
-                                            <li class="mb-1">Rheumatoid arthritis</li>
-                                            <li class="mb-1">Lupus</li>
-                                            <li>Multiple sclerosis</li>
+                                            <li class="section2p mb-1">Rheumatoid arthritis</li>
+                                            <li class="section2p mb-1">Lupus</li>
+                                            <li class="section2p ">Multiple sclerosis</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -49,8 +49,8 @@
                                         </div>
                                         <h5 class="mb-3">Inflammatory Bowel Diseases</h5>
                                         <ul class="list-unstyled mb-0">
-                                            <li class="mb-1">Crohn's disease</li>
-                                            <li>Ulcerative colitis</li>
+                                            <li class="section2p mb-1">Crohn's disease</li>
+                                            <li class="section2p">Ulcerative colitis</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -66,8 +66,8 @@
                                         </div>
                                         <h5 class="mb-3">Inflammatory Skin Conditions</h5>
                                         <ul class="list-unstyled mb-0">
-                                            <li class="mb-1">Psoriasis</li>
-                                            <li>Atopic dermatitis</li>
+                                            <li class="section2p mb-1">Psoriasis</li>
+                                            <li class="section2p">Atopic dermatitis</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -82,7 +82,7 @@
                                             </svg>
                                         </div>
                                         <h5 class="mb-3">Rare Inflammatory Disorders</h5>
-                                        <p class="mb-0">Developing treatments for conditions with limited therapeutic options</p>
+                                        <p class="section2p mb-0">Developing treatments for conditions with limited therapeutic options</p>
                                     </div>
                                 </div>
                             </div>
@@ -116,9 +116,9 @@
     }
     
     .lead {
-        font-size: 1.25rem;
-        color: #495057;
-        line-height: 1.6;
+        font-size: 16px;
+        color: #555;
+        line-height: 26px;
     }
     
     .focus-card {
@@ -162,7 +162,7 @@
         }
         
         .lead {
-            font-size: 1.1rem;
+            font-size: 16 px;
         }
     }
 </style>
