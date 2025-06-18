@@ -15,16 +15,7 @@
 
 <!-- Main Content -->
     <main class="container-fluid">
-        <div class="page-header-strip">
-        <div class="container">
-            <div class="page-title">
-                Teams
-            </div>
-            <div class="breadcrumb">
-                <a href="/index.php">Home</a> / <span>teams</span>
-            </div>
-        </div>
-    </div>
+       <?php include('sections/teams-slider.php'); ?>
         <section class="container">
             <?php include('templates/teams.php'); ?>
         </section>

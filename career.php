@@ -15,16 +15,7 @@
 
 <!-- Main Content -->
     <main class="container-fluid">
-        <div class="page-header-strip">
-        <div class="container">
-            <div class="page-title">
-                Career
-            </div>
-            <div class="breadcrumb">
-                <a href="/index.php">Home</a> / <span>career</span>
-            </div>
-        </div>
-    </div>
+        <?php include('sections/career-slider.php'); ?>
         <section class="container">
             <?php include('templates/career.php'); ?>
         </section>

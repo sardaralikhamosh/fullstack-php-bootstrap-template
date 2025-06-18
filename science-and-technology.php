@@ -15,16 +15,7 @@
 
 <!-- Main Content -->
     <main class="container-fluid">
-        <div class="page-header-strip">
-        <div class="container">
-            <div class="page-title">
-               Science & Technology
-            </div>
-            <div class="breadcrumb">
-                <a href="/index.php">Home</a> / <span>Science & Technology</span>
-            </div>
-        </div>
-    </div>
+        <?php include "sections/science-and-technology-slider.php" ?>
         <section class="container">
              <?php include "sections/section-9.php"; ?>
             <?php include('templates/science-and-technology.php'); ?>

@@ -1,158 +1,84 @@
- .section2p{
-            color: #555;
-            font-size: 16px;
-            line-height: 26px;
+    
+.section-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #2c3e50;
+            margin-bottom: 50px;
+            position: relative;
         }
-.elemental-paragraph{
-    font-size: 16px;
-    line-height: 20px;
-    font-weight: 400;
-}
-body {
-    font-family: Arial, sans-serif !important;
-    line-height: 1.6;
-}
+    main.container-fluid {
+        padding: 0 !important;
+    }
+    .team-container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+    .team-row {
+        margin-bottom: 30px;
+    }
+    .team-member-box {
+        border: 1px solid #e0e0e0;
+        border-radius: 8px;
+        padding: 20px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+        height: 100%;
+    }
+    .team-member-content {
+        display: flex;
+        align-items: center;
+    }
+    .team-member-image {
+        flex: 0 0 100px;
+        margin-right: 20px;
+    }
+    .team-member-image img {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+    .team-member-info {
+        flex: 1;
+    }
+    .team-member-info h3 {
+        margin-top: 0;
+        margin-bottom: 10px;
+        color: #333;
+    }
+    .team-member-info p {
+        margin: 5px 0;
+        color: #666;
+    }
+    .team-section-header {
+        text-align: left;
+        margin-bottom: 40px;
+    }
+    .team-section-header h1 {
+        color: #2c3e50;
+        margin-bottom: 15px;
+    }
+    .team-section-header hr {
+        width: 100px;
+        border: 1px solid #3498db;
+        margin: 0 auto;
+    }
 
-.hero-section {
-    background-color: #f8f9fa;
-    padding: 100px 0;
-    text-align: center;
-    margin-bottom: 50px;
-}
-
-.hero-section h1 {
-    font-size: 2.5rem;
-    font-weight: bold;
-    color: #333;
-    margin-bottom: 20px;
-}
-
-.hero-section p {
-    font-size: 1.2rem;
-    color: #666;
-}
-/*header styling*/
-
- .navbar-brand img {
-            height: 80px;
-            max-width: 100%;
+    /* Mobile Responsiveness */
+    @media (max-width: 767px) {
+        .team-member-content {
+            flex-direction: column;
+            text-align: center;
         }
-
-/*header ends*/
-h2 {
-    font-size: 2rem;
-    font-weight: bold;
-    color: #333;
-    margin-bottom: 20px;
-}
-
-h3 {
-    font-size: 1.5rem;
-    font-weight: bold;
-    color: #444;
-    margin-bottom: 15px;
-}
-
-h4 {
-    font-size: 1.2rem;
-    font-weight: bold;
-    color: #555;
-    margin-bottom: 10px;
-}
-
-ul {
-    margin-bottom: 20px;
-}
-
-footer {
-    background-color: #f8f9fa;
-}
-
-footer h5 {
-    font-weight: bold;
-    margin-bottom: 15px;
-}
-
-footer ul li {
-    margin-bottom: 8px;
-}
-
-footer a {
-    color: #666;
-    text-decoration: none;
-}
-
-footer a:hover {
-    color: #333;
-    text-decoration: underline;
-
-}
-.custom-class-home {
-    margin-top: 0 !important;
-}
-.margin-top-5{
-    margin-top: 5px !important;
-}
-/* Page Header Strip */
-.page-header-strip {
-    background-color: #124170;
-    color: white;
-    padding: 15px 0;
-    margin-bottom: 40px;
-}
-
-.page-header-strip .container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.breadcrumb {
-    font-size: 14px;
-}
-
-.breadcrumb a {
-    color: white;
-    text-decoration: none;
-}
-
-.breadcrumb a:hover {
-    text-decoration: underline;
-}
-
-.page-title {
-    font-size: 18px;
-    font-weight: bold;
-    text-transform: uppercase;
-}
-
-
-/*strip mobile */
-
-@media (max-width: 768px) {
-    .page-header-strip .container {
-        flex-direction: column;
-        align-items: flex-start;
+        .team-member-image {
+            margin-right: 0;
+            margin-bottom: 15px;
+            flex: 0 0 auto;
+        }
+        .team-row {
+            margin-bottom: 15px;
+        }
+        .col-md-6 {
+            margin-bottom: 15px;
+        }
     }
-    
-    .page-title {
-        margin-top: 5px;
-    }
-    
-    .intro-section h1 {
-        font-size: 20px;
-    }
-    
-    .process-item {
-        flex: 0 0 100%;
-    }
-    
-    .key-point-box {
-        flex: 0 0 100%;
-    }
-    
-    .image-col {
-        flex: 0 0 100%;
-    }
-}
-

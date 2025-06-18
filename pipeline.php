@@ -15,16 +15,7 @@
 
 <!-- Main Content -->
     <main class="container-fluid">
-        <div class="page-header-strip">
-        <div class="container">
-            <div class="page-title">
-                Pipeline
-            </div>
-            <div class="breadcrumb">
-                <a href="/index.php">Home</a> / <span>pipeline</span>
-            </div>
-        </div>
-    </div>
+       <?php include('sections/pipeline-slider.php'); ?>
         <section class="container">
             <?php include('templates/pipeline.php'); ?>
         </section>

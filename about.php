@@ -14,17 +14,8 @@
 </section>
 
 <!-- Main Content -->
-    <main class="container-fluid">
-        <div class="page-header-strip">
-        <div class="container">
-            <div class="page-title">
-                About Us
-            </div>
-            <div class="breadcrumb">
-                <a href="/index.php">Home</a> / <span>about-us</span>
-            </div>
-        </div>
-    </div>
+ 
+    <?php include('sections/about-slider.php'); ?>
         <section class="container">
             <?php include('templates/about.php'); ?>
             <?php include('sections/about-us-section-2.php'); ?>

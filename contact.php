@@ -20,7 +20,7 @@
                 Contact
             </div>
             <div class="breadcrumb">
-                <a href="/index.php">Home</a> / <span>contact</span>
+                <a href="/index.php">Home</a> / <span>Contact</span>
             </div>
         </div>
     </div>

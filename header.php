@@ -10,6 +10,9 @@
     
     <!-- Custom CSS -->
     <style>
+    a.navbar-brand img {
+    max-width: 200px;
+}
         main.container-fluid {
     padding: 0 !important;
 }
@@ -88,7 +91,7 @@
             <div class="container">
                 <!-- Logo -->
                 <a class="navbar-brand" href="index.php">
-                    <img src="images/logo-updated.png" alt="Elemental Biologics Logo">
+                    <img src="images/official-logo-updated.png" alt="Elemental Biologics Logo">
                 </a>
                 
                 <!-- Mobile Toggle Button -->

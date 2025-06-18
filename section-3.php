@@ -28,7 +28,7 @@
                 <!-- Image Column with Angle -->
                 <div class="col-lg-7 col-md-12 image-column">
                     <div class="image-container">
-                        <img src="images/section-3.jpg" alt="Scientist holding semiconductor wafer in laboratory" class="img-fluid">
+                        <img src="images/section-3.png" alt="Scientist holding semiconductor wafer in laboratory" class="img-fluid">
                     </div>
                 </div>
             </div>
