@@ -20,7 +20,9 @@
     padding: 0 !important;
 }
         .navbar {
+
             background-color: white;
+            padding: 0 !important;
         }
         .header-btn{
     background-color: #0a2240 !important;
