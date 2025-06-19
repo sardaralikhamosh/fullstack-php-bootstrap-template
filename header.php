@@ -10,6 +10,9 @@
     
     <!-- Custom CSS -->
     <style>
+           *{
+    font-family: arial !important;
+}
     a.navbar-brand img {
     max-width: 200px;
 }
@@ -17,10 +20,16 @@
     padding: 0 !important;
 }
         .navbar {
-            padding: 15px 0;
             background-color: white;
         }
-        
+        .header-btn{
+    background-color: #0a2240 !important;
+    color: white !important;
+    border-radius: 0 !important;
+    padding: 10px 20px !important;
+    font-weight: 500 !important;
+
+        }
         .navbar-nav .nav-link {
             color: #333333;
             font-weight: 500;
@@ -121,7 +130,7 @@
                             <a class="nav-link" href="career.php">CAREER</a>
                         </li>
                         <li class="nav-item ms-lg-3 mt-3 mt-lg-0">
-                            <a class="btn consultation-btn" href="mailto:contact@elementalbiologics.com">Contact Us</a>
+                            <a class="btn consultation-btn header-btn" href="mailto:contact@elementalbiologics.com">Contact Us</a>
                         </li>
                     </ul>
                 </div>
