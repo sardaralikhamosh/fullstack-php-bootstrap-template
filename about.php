@@ -16,8 +16,13 @@
 <!-- Main Content -->
  
     <?php include('sections/about-slider.php'); ?>
+    <section class="container-fluid">
+        <?php include('sections/about-section-1.php'); ?>
+        <?php include'sections/about-section-2.php';?>
+        <?php include "sections/about-section-3.php"; ?>
+        <?php include'sections/about-section-4.php'; ?>
+    </section>
         <section class="container">
-            <?php include('templates/about.php'); ?>
             <?php include('sections/about-us-section-2.php'); ?>
         </section>
         <br>

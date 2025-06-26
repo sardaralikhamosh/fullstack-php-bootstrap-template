@@ -16,10 +16,14 @@
 <!-- Main Content -->
     <main class="container-fluid">
         <?php include "slider.php"; ?>
-        <?php include "sections/section-1.php"; ?>
-        <?php include "sections/section-7.php"; ?>
+        <?php #include "sections/section-1.php"; ?>
+        
    
         <section class="container-fluid">
+            <?php include 'sections/home-section-1.php';?>
+            <?php include 'sections/home-section-2.php';?>
+            <?php include 'sections/home-section-3.php';?>
+            <?php include "sections/section-7.php"; ?>
             <?php include('section-2.php'); ?>
             <?php include "sections/section-8.php"; ?>
             <?php include('section-3.php'); ?>
