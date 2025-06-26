@@ -1,8 +1,6 @@
 
         /* Custom CSS */
-        *{
-    font-family: arial !important;
-}     .banner-section {
+        .banner-section {
             height: 500px;
             background-image: url('../images/sections/page-banner.jpg');
             background-size: cover;
