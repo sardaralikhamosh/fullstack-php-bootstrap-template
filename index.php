@@ -20,6 +20,7 @@
         
    
         <section class="container-fluid">
+            <?php include'sections/home-welcome-section.php';?>
             <?php include 'sections/home-section-1.php';?>
             <?php include 'sections/home-section-2.php';?>
             <?php include 'sections/home-section-3.php';?>

@@ -22,12 +22,6 @@
         <?php include "sections/about-section-3.php"; ?>
         <?php include'sections/about-section-4.php'; ?>
     </section>
-        <section class="container">
-            <?php include('sections/about-us-section-2.php'); ?>
-        </section>
-        <br>
-    </main>
-
     <!-- Footer -->
     <footer class=" container-fluid bg-light">
      <?php include "footer.php"; ?>
