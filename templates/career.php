@@ -5,12 +5,7 @@ $metaDescription = "Learn about our biotech company focused on developing innova
 ?>
 
     <style>
-        .section-title-career {
-            font-size: 2.5rem;
-            font-weight: 700;
-            color: #2c3e50;
-            position: relative;
-        }
+        
          .section2p{
             color: #555;
             font-size: 16px;
@@ -86,6 +81,14 @@ $metaDescription = "Learn about our biotech company focused on developing innova
             .section-subtitle {
                 font-size: 1.5rem;
             }
+        }
+        @media screen and (min-width:634px){
+            .section-title-career {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #2c3e50;
+            position: relative;
+        }
         }
     </style>
     
