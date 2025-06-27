@@ -5,6 +5,7 @@ $metaDescription = "At Elemental Biologics, we apply precision immunology to dev
 ?>
 
     <style>
+
         .section2p{
             color: #555;
             font-size: 16px;
@@ -100,7 +101,15 @@ $metaDescription = "At Elemental Biologics, we apply precision immunology to dev
              .key-point-box {
                 flex: 0 0 48%;
     }
+}
+@media screen and (min-width:624px){
+    .section-title-pipeline {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #2c3e50;
+            position: relative;
         }
+}
 
     .custom-paragraph{
         max-width: 900px;
@@ -116,7 +125,7 @@ $metaDescription = "At Elemental Biologics, we apply precision immunology to dev
 
         <!-- About Us Section -->
         <section class="about-section">
-            <h3>Elemental Biologics has five advanced therapeutic programs currently in development.</h3>
+            <h3 class="section-title-pipeline">Elemental Biologics has five advanced therapeutic programs currently in development.</h3>
         </section>
         <!-- section 1 starts -->
         <section class="about-section">
@@ -138,7 +147,7 @@ $metaDescription = "At Elemental Biologics, we apply precision immunology to dev
                 <div class="row">
                     <div class="col-12 py-3">  <!-- py-3 adds 1rem (16px) padding top and bottom -->
                         <div class="w-100">  <!-- w-100 makes container full width -->
-                            <h3>Our Targets Strategically Reflect:</h3><br>
+                            <h3 class="section-title-pipeline">Our Targets Strategically Reflect:</h3><br>
                             <ul>
                                 <li>
                                      <p class="mb-0 section2p custom-paragraph">Assets being developed as <b>Best-in-Class/First-in-Class</b> mAbs for Targets that are centerpieces of cellular and biochemical processes underlying diseases of interest.</p>

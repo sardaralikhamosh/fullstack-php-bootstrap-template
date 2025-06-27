@@ -20,6 +20,9 @@
             <div class="row justify-content-center">
                 <center>
                     <div class="col-12 science-content">
+                    <center>
+                        <img src="./images/icons/vision.png"><br><br>
+                    </center>
                     <h1 class="display-4 mb-4">Our Vision</h1>
                     <p class="lead">
                        To lead the next generation of precision immunology by developing transformative, science-driven therapies that redefine care and deliver lasting relief, renewed hope, and a healthier future for patients worldwide.

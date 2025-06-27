@@ -20,6 +20,9 @@
             <div class="row justify-content-center">
                 <center>
                     <div class="col-12 science-content">
+                    <center>
+                        <img src="./images/icons/values.png"><br><br>
+                    </center>
                     <h1 class="display-4 mb-4">Our Values</h1>
                     <p class="lead">
                         We are driven by innovation to transform treatments, guided by a patient-centered approach to improve outcomes, and committed to excellence through the highest scientific standards. Our work is strengthened by collaboration, grounded in integrity, fueled by resilience, and inspired by a passion to deliver impactful healthcare solutions.
