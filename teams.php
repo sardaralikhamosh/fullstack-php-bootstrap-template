@@ -15,7 +15,7 @@
 
 <!-- Main Content -->
     <main class="container-fluid">
-       <?php include('sections/teams-slider.php'); ?>
+       <?php include('sections/teams-slider.php'); ?><br>
         <section class="container">
             <?php include('templates/teams.php'); ?>
         </section>

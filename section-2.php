@@ -21,7 +21,7 @@
                 <!-- Content Column -->
                 <div class="col-lg-5 col-md-12 about-content-wrapper">
                     <div class="about-content">
-                        <h2>About Us</h2>
+                        <h2>What We Do?</h2>
                         <p class="mb-4 feature-text">
                             We are a biotech company engaged in the discovery and development of monoclonal antibodies (mAbs) as next-generation treatments for autoimmune and other inflammatory diseases.
                         </p>

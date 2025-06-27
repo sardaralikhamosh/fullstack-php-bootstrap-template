@@ -20,9 +20,10 @@
             <div class="row justify-content-center">
                 <center>
                     <div class="col-12 science-content">
-                    <h1 class="display-4 mb-4">Welcome To ELEMENTAL</h1>
+                    <h1 class="display-4 mb-4">Elemental Biologics</h1>
                     <p class="lead">
-                        B &nbsp; I &nbsp; O &nbsp; L &nbsp; O &nbsp; G &nbsp; I &nbsp; C &nbsp; S
+                        At Elemental Biologics, we apply precision immunology to develop innovative monoclonal antibody (mAb) therapies. Our drug discovery platform combines scientific expertise with advanced technologies to address complex immune-driven diseases.
+
                     </p>
                 </div>
                 </center>

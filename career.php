@@ -15,7 +15,7 @@
 
 <!-- Main Content -->
     <main class="container-fluid">
-        <?php include('sections/career-slider.php'); ?>
+        <?php include('sections/career-slider.php'); ?><br>
         <section class="container">
             <?php include('templates/career.php'); ?>
         </section>

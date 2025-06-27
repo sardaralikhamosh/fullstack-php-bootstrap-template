@@ -15,7 +15,7 @@
 
 <!-- Main Content -->
     <main class="container-fluid">
-       <?php include('sections/pipeline-slider.php'); ?>
+       <?php include('sections/pipeline-slider.php'); ?><br>
         <section class="container">
             <?php include('templates/pipeline.php'); ?>
         </section>

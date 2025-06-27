@@ -1,9 +1,9 @@
 <link rel="stylesheet" type="text/css" href="./css/style.css">
 <link rel="stylesheet" type="text/css" href="./css/teams-style.css">
 
-<div class="team-section-header" style="text-align:left;">
+<!-- <div class="team-section-header" style="text-align:left;">
     <h3 class="section-title">Leadership Team</h3>
-</div>
+</div> -->
 
 <div class="team-container">
     <div class="row team-row">

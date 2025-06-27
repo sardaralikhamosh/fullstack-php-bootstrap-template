@@ -5,6 +5,12 @@ $metaDescription = "Learn about our biotech company focused on developing innova
 ?>
 
     <style>
+        .section-title-career {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #2c3e50;
+            position: relative;
+        }
          .section2p{
             color: #555;
             font-size: 16px;
@@ -86,7 +92,7 @@ $metaDescription = "Learn about our biotech company focused on developing innova
 
         <!-- About Us Section -->
         <section class="about-section">
-            <h3>Company Culture</h3><br>
+            <h3 class="section-title-career">Company Culture</h3><br>
             <div class="about-content">
                 <div class="about-text">
                     <ul>
@@ -115,7 +121,7 @@ $metaDescription = "Learn about our biotech company focused on developing innova
             </div>
         </section>
          <section class="about-section">
-            <h3>Job listings</h3><br>
+            <h3 class="section-title-career">Job listings</h3><br>
             <div class="about-content">
                 <div class="about-text">
                     <p class="section2p feature-text">
