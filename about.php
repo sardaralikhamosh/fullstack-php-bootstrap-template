@@ -18,10 +18,10 @@
     <?php include('sections/about-slider.php'); ?>
     <section class="container-fluid">
         <?php include('sections/about-section-0.php'); ?>
-        <?php include('sections/about-section-1.php'); ?>
         <?php include'sections/about-section-2.php';?>
-        <?php include "sections/about-section-3.php"; ?>
+        <?php include('sections/about-section-1.php'); ?>
         <?php include'sections/about-section-4.php'; ?>
+        <?php include "sections/about-section-3.php"; ?>
     </section>
     <!-- Footer -->
     <footer class=" container-fluid bg-light">

@@ -25,7 +25,7 @@
                     </center>
                     <h1 class="display-4 mb-4 lead-black">Our Mission</h1>
                     <p class="lead-black">
-                      To develop innovative monoclonal antibody therapies that target key immune pathways involved in autoimmune and gastrointestinal inflammatory diseases, addressing significant unmet medical needs.
+                     To develop innovative monoclonal antibody therapies that target key immune pathways involved in autoimmune and other inflammatory diseases, addressing significant unmet medical needs.
                     </p>
                 </div>
                 </center>

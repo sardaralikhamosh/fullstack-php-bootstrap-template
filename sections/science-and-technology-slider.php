@@ -17,7 +17,7 @@
                 <!-- Left Column -->
                 <div class="col-lg-6 blue-strip-container">
                     <div class="blue-strip">
-                        <h1 class="page-title">Science & Technology</h1>
+                        <h1 class="page-title">Our Science</h1>
                     </div>
                 </div>
                 

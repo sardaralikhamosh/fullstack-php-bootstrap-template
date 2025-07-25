@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="./css/sub-pages-slider.css">
      <style>
         .banner-section {
-            background-image: url('../images/sections/page-banner-pipeline.jpg') !important;}
+            background-image: url('../images/sections/page-banner.jpg') !important;}
     </style>
 </head>
 <body>
