@@ -117,16 +117,16 @@
                             <a class="nav-link" href="index.php">HOME</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="about.php">ABOUT</a>
+                            <a class="nav-link" href="about.php">ABOUT US</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="science-and-technology.php">SCIENCE & TECHNOLOGY</a>
+                            <a class="nav-link" href="science-and-technology.php">OUR SCIENCE</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="pipeline.php">PIPELINE</a>
                         </li>
                          <li class="nav-item">
-                            <a class="nav-link" href="teams.php">TEAM & LEADERSHIP</a>
+                            <a class="nav-link" href="teams.php">OUR TEAM</a>
                         </li>
                          <li class="nav-item">
                             <a class="nav-link" href="career.php">CAREER</a>

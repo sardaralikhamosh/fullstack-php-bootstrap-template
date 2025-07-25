@@ -20,14 +20,22 @@
         
    
         <section class="container-fluid">
-            <?php include'sections/home-welcome-section.php';?>
-            <?php include 'sections/home-section-1.php';?>
-            <?php include 'sections/home-section-2.php';?>
-            <?php include 'sections/home-section-3.php';?>
-            <?php include "sections/section-7.php"; ?>
-            <?php include('section-2.php'); ?>
-            <?php include "sections/section-8.php"; ?>
-            <?php include('section-3.php'); ?>
+            <!-- 1 -->
+              <?php include "sections/section-7.php"; ?>
+              <!-- 2 -->
+               <?php include('section-2.php'); ?>
+               <!--3-->
+                <?php include "sections/section-8.php"; ?>
+                <!--4-->
+                 <?php include 'sections/home-section-3.php';?>
+                 <!--5-->
+                 <?php include 'sections/home-section-2.php';?>
+                    <!--6-->
+                 <?php include('section-3.php'); ?>
+               
+            <?php include'sections/home-welcome-section.php';?> 
+            <!--<?php #include 'sections/home-section-1.php';?>-->
+            
         </section>
         <?php include "sections/section-6.php"; ?>
 
