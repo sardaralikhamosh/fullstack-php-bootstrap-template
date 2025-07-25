@@ -183,7 +183,7 @@
                         <div class="hero-content">
                             <h5>A Unique and Transformative</h5>
                             <h1>THERAPEUTIC ANTIBODY<br>PLATFORM</h1>
-                            <p>Advancing next-generation monoclonal antibody (mAb) treatments for<br>autoimmune and gastrointestinal diseases.</p>
+                            <p>Advancing next-generation monoclonal antibody (mAb) treatments for<br>autoimmune and inflammatory diseases.</p>
                             <a href="/science-and-technology.php" class="btn btn-light">Learn About Our Science</a>
                         </div>
                     </div>
@@ -197,8 +197,8 @@
                         <div class="hero-content">
                             <h5>Innovative Research</h5>
                             <h1>BREAKTHROUGH<br>DISCOVERIES</h1>
-                            <p>Pioneering novel approaches to treating chronic inflammatory<br>conditions with targeted therapies.</p>
-                            <a href="#" class="btn btn-light">Explore Our Pipeline</a>
+                            <p>Replace the background to look the same as the previous two<br>and keep consistency</p>
+                            <a href="/pipeline.php" class="btn btn-light">Explore Our Pipeline</a>
                         </div>
                     </div>
                 </div>
@@ -212,7 +212,7 @@
                             <h5>Excellence in Development</h5>
                             <h1>PRECISION<br>MEDICINE</h1>
                             <p>Creating tailored therapeutic solutions that address the root causes<br>of inflammatory disease mechanisms.</p>
-                            <a href="#" class="btn btn-light">View Our Approach</a>
+                            <a href="/about.php" class="btn btn-light">Learn About Us</a>
                         </div>
                     </div>
                 </div>
