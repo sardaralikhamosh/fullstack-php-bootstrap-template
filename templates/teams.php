@@ -59,7 +59,7 @@
                     </div>
                     <div class="team-member-info">
                         <h3>RAPHAEL RIBEIRO-PINAUD, PhD, MBA</h3>
-                        <p><strong>CEO & Chairman, Antharis Therapeutics</strong></p>
+                        <p><strong>Senior Scientific and Business Advisor</strong></p>
                     </div>
                 </div>
             </div>

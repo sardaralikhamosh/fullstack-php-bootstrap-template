@@ -14,16 +14,19 @@
                 <!-- Content Column -->
                 <div class="col-lg-5 col-md-12 about-content-wrapper">
                     <div class="about-content">
-                        <h2>Targeted Discovery</h2>
+                        <h2>Our Targets Strategically Reflect:</h2>
                         <p class="mb-4 feature-text">
-                            We identify key immune pathways involved in multiple diseases, enabling cross-indication therapies with a single antibody.
-                        </p>
+                        Assets being developed as <b>Best-in-Class/First-in-Class</b> mAbs for Targets that are centerpieces of cellular and biochemical processes underlying diseases of interest.
+                        <br>
+                        Elemental Targets are involved in <b>multiple associated diseases</b> with largely <b>unmet medical needs.</b>
+                    </p>
+                    
                     </div>
                 </div>
                 <!-- Image Column with Angle -->
                 <div class="col-lg-7 col-md-12 about-image-container">
                     <div class="about-image">
-                        <img src="./images/sections/science-and-technology-section-5.jpg" alt="Elemental Biologics Laboratory" class="img-fluid">
+                        <img src="./images/pipeline-img.png" alt="Elemental Biologics Laboratory" class="img-fluid">
                     </div>
                 </div>
             </div>

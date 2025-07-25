@@ -17,7 +17,7 @@
                 <!-- Left Column -->
                 <div class="col-lg-6 blue-strip-container">
                     <div class="blue-strip">
-                        <h1 class="page-title">Teams & leadership</h1>
+                        <h1 class="page-title">Our Team</h1>
                     </div>
                 </div>
                 
