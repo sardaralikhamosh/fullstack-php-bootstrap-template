@@ -26,7 +26,7 @@
                 <!-- Image Column with Angle -->
                 <div class="col-lg-7 col-md-12 about-image-container">
                     <div class="about-image">
-                        <img src="./images/pipeline-img.png" alt="Elemental Biologics Laboratory" class="img-fluid">
+                        <img src="./images/pipeline-imgiupdated.png" alt="Elemental Biologics Laboratory" class="img-fluid">
                     </div>
                 </div>
             </div>
