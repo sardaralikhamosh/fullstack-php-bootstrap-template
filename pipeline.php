@@ -18,7 +18,6 @@
        <?php include('sections/pipeline-slider.php'); ?>
        <?php include 'sections/pipeline-section-1.php'; ?>
        <?php include 'sections/pipeline-section-2.php'; ?>
-       
         <!-- <section class="container">
             
             <?php #include('templates/pipeline.php'); ?>

@@ -21,6 +21,7 @@
             <?php include'sections/science-and-technology-section-2.php';?>
             <!-- <?php #include 'sections/science-and-technology-section-3.php';?> -->
             <?php include'sections/science-and-technology-section-4.php';?>
+             <?php include'sections/science-and-technology-section-5.php';?>
             <!-- <?php #include('templates/science-and-technology.php'); ?> -->
         </section>
     </main>

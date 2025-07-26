@@ -10,7 +10,7 @@
 <section class="about-section">
     <div class="container-fluid p-0">
         <div class="about-container">
-            <div class="row g-0">
+            <div class="row g-0 content-center">
                 <!-- Content Column -->
                 <div class="col-lg-5 col-md-12 about-content-wrapper">
                     <div class="about-content">
@@ -35,10 +35,16 @@
 </section>
 
 <style>
+    .content-center{
+        justify-content: center;
+        display: flex;
+        align-items: center;
+    }
     section.container-fluid{
         padding: 0;
     }
     .about-section {
+        padding: 50px 0;
         overflow: hidden;
         position: relative;
         background-color: #fff;
