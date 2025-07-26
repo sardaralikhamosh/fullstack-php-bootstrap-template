@@ -14,12 +14,9 @@
                 <!-- Content Column -->
                 <div class="col-lg-5 col-md-12 about-content-wrapper">
                     <div class="about-content">
-                        <h2>Elemental Biologics</h2>
+                        <h2>A Unique And Transformative Therapeutic Antibody Platform</h2>
                         <p class="mb-4 feature-text">
-                            At Elemental Biologics, we apply precision immunology to develop innovative monoclonal antibody (mAb) therapies. 
-                        </p>
-                        <p class="mb-5 feature-text">
-                            Our drug discovery platform combines scientific expertise with advanced technologies to address complex immune-driven diseases.
+                        Elemental is engaged in the discovery and development of mAbs as next-generation treatments for multiple autoimmune & gastrointestinal inflammatory diseases.
                         </p>
                         <a href="science-and-technology.php" class="btn btn-primary learn-more-btn">Learn More</a>
                     </div>
