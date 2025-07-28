@@ -147,7 +147,7 @@
     
     .focus-card ul li:before {
         content: "•";
-        color: #0d6efd;
+        color: #ffffffff;
         position: absolute;
         left: 0;
     }

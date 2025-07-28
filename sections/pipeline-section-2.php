@@ -62,7 +62,7 @@
     
     .about-image {
         width: 100%;
-        height: 100%;
+        height: auto;
 /*        clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);*/
         position: relative;
     }
@@ -128,8 +128,10 @@
     }
     
     @media (max-width: 767px) {
+        .about-section {
+    padding: 20px 0;}
         .about-image {
-            height: 300px;
+            height: 115px;
         }
         
         .about-content {
