@@ -13,8 +13,8 @@
             <div class="row g-0">
                 <!-- Image Column with Angle -->
                 <div class="col-lg-7 col-md-12 about-image-container">
-                    <div class="about-image">
-                        <img src="./images/sections/science-and-technology-section-4.jpg" alt="Elemental Biologics Laboratory" class="img-fluid displaynon-onmobile">
+                    <div class="about-image displaynon-onmobile">
+                        <img src="./images/sections/science-and-technology-section-4.jpg" alt="Elemental Biologics Laboratory" class="img-fluid ">
                     </div>
                 </div>
                 
@@ -25,6 +25,14 @@
                         <p class="mb-4 feature-text">
                             We advance promising candidates through rigorous preclinical models advancing candidates with real-world impact.
                         </p>
+                    </div>
+                </div>
+
+                <!-- this is only for moble  -->
+                 <div class="col-lg-7 col-md-12 about-image-container">
+                    <div class="about-image <div class="col-lg-7 col-md-12 about-image-container">
+                    <div class="about-image displaynon-laptop">
+                        <img src="./images/sections/science-and-technology-section-4.jpg" alt="Elemental Biologics Laboratory" class="img-fluid ">
                     </div>
                 </div>
             </div>
@@ -135,5 +143,12 @@
             font-size: 1.8rem;
             margin-bottom: 1rem;
         }
+    }
+    @media screen and {min-width:768){
+        .displaynon-laptop{
+            displspl
+        }
+    }
+        
     }
 </style>
