@@ -130,6 +130,7 @@
     @media (max-width: 767px) {
         .displaynon-onmobile{
             display: none;
+            paddin-bottom: 20px;
         }
         .about-image {
             height: 300px;
@@ -144,9 +145,9 @@
             margin-bottom: 1rem;
         }
     }
-    @media screen and {min-width:768){
+    @media screen and (min-width:768px){
         .displaynon-laptop{
-            displspl
+            display:none;
         }
     }
         

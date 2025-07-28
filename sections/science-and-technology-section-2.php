@@ -13,7 +13,7 @@
             <div class="row g-0">
                 <!-- Image Column with Angle -->
                 <div class="col-lg-7 col-md-12 about-image-container">
-                    <div class="about-image">
+                    <div class="about-image displaynon-onmobile">
                         <img src="./images/sections/science-and-technology-section-1.jpg" alt="Elemental Biologics Laboratory" class="img-fluid">
                     </div>
                 </div>
@@ -25,6 +25,13 @@
                         <p class="mb-4 feature-text">
                             We identify key immune pathways involved in multiple diseases, enabling cross-indication therapies with a single antibody.
                         </p>
+                    </div>
+                </div>
+
+                <!-- below section is only for mobile  -->
+                 <div class="col-lg-7 col-md-12 about-image-container">
+                    <div class="about-image displaynon-onlaptop">
+                        <img src="./images/sections/science-and-technology-section-1.jpg" alt="Elemental Biologics Laboratory" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -120,6 +127,10 @@
     }
     
     @media (max-width: 767px) {
+        .displaynon-onmobile{
+            display: none;
+            padding-bottom: 20px;
+        }
         .about-image {
             height: 300px;
         }
@@ -132,5 +143,10 @@
             font-size: 1.8rem;
             margin-bottom: 1rem;
         }
+    }
+  @media screen and (min-width:768px){
+        .about-image.displaynon-onlaptop {
+    display: none;
+}
     }
 </style>
