@@ -147,7 +147,7 @@
     
     .focus-card ul li:before {
         content: "•";
-        color: #ffffffff;
+        color: #00a2c8;
         position: absolute;
         left: 0;
     }
@@ -168,5 +168,13 @@
         .lead {
             font-size: 16 px;
         }
+         .focus-card ul li:before {
+        color: #ffffffff !important;
+        display : none;
+
+    }
+      ul.list-unstyled.mb-0 {
+        margin-left: -40px;
+    }
     }
 </style>
