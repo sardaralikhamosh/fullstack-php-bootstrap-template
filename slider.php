@@ -197,7 +197,7 @@
                         <div class="hero-content">
                             <h5>Innovative Research</h5>
                             <h1>BREAKTHROUGH<br>DISCOVERIES</h1>
-                            <p>Replace the background to look the same as the previous two<br>and keep consistency</p>
+                            <p>Pioneer novel approaches to treating chronic inflammatory<br>conditions with therapies</p>
                             <a href="/pipeline.php" class="btn btn-light">Explore Our Pipeline</a>
                         </div>
                     </div>
