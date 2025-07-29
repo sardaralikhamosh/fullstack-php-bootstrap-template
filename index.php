@@ -33,7 +33,7 @@
                     <!--6-->
                  <?php include('section-3.php'); ?>
                
-            <?php include'sections/home-welcome-section.php';?> 
+            <!-- <?php #include'sections/home-welcome-section.php';?>  -->
             <!--<?php #include 'sections/home-section-1.php';?>-->
             
         </section>
