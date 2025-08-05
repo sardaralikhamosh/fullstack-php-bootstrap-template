@@ -183,7 +183,7 @@
                         <div class="hero-content">
                             <h5>A Unique and Transformative</h5>
                             <h1>THERAPEUTIC ANTIBODY PLATFORM</h1>
-                            <p>Driving the advancement of next-generation monoclonal antibody (mAb) therapies for autoimmune and inflammatory diseases</p>
+                            <p>Driving the advancement of next-generation monoclonal antibody (mAb) therapies<br>for autoimmune and inflammatory diseases</p>
                             <a href="/science-and-technology.php" class="btn btn-light">Learn About Our Science</a>
                         </div>
                     </div>
@@ -192,7 +192,7 @@
             
             <!-- Slide 2 (placeholder) -->
             <div class="carousel-item">
-                <div class="hero-slide" style="background-image: url('images/slider-1.jpg');">
+                <div class="hero-slide" style="background-image: url('images/slider.jpg');">
                     <div class="container">
                         <div class="hero-content">
                             <h5>Innovative Research</h5>
