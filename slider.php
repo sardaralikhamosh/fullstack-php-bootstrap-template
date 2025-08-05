@@ -210,7 +210,7 @@
                     <div class="container">
                         <div class="hero-content">
                             <h5>Excellence in Development</h5>
-                            <h1>PRECISION MEDICINE</h1>
+                            <h1>PRECISION<br>MEDICINE</h1>
                             <p>Delivering targeted therapeutic solutions that address the<br>underlying mechanisms of inflammatory diseases</p>
                             <a href="/about.php" class="btn btn-light">Learn About Us</a>
                         </div>

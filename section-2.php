@@ -21,12 +21,12 @@
                 <!-- Content Column -->
                 <div class="col-lg-5 col-md-12 about-content-wrapper">
                     <div class="about-content">
-                        <h2>What We Do?</h2>
+                        <h2>What We Do</h2>
                         <p class="mb-4 feature-text">
-                            We are a biotech company engaged in the discovery and development of monoclonal antibodies as next-generation treatments for autoimmune and other inflammatory diseases.
+                            We are a biotech company dedicated to the discovery and development of next-generation monoclonal antibody therapies for autoimmune and other inflammatory diseases.
                         </p>
                         <p class="mb-5 feature-text">
-                            Our innovative monoclonal antibody development focuses on targeting multiple disease areas where effective therapies are unavailable.
+                            Our innovative approach focuses on addressing multiple disease areas with high unmet medical need, where effective treatment options remain limited.
                         </p>
                         <a href="/about.php" class="btn btn-primary learn-more-btn">Learn More</a>
                     </div>
