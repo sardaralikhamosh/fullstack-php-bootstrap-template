@@ -16,9 +16,9 @@
                     <div class="about-content">
                         <h2>Our Targets Strategically Reflect:</h2>
                         <p class="mb-4 feature-text">
-                        Assets being developed as <b>Best-in-Class/First-in-Class</b> mAbs for Targets that are centerpieces of cellular and biochemical processes underlying diseases of interest.
+                        Assets developed as Best-in-Class or First-in-Class monoclonal antibodies<br>targeting key cellular and biochemical pathways underlying diseases of interest.
                         <br>
-                        Elemental Targets are involved in <b>multiple associated diseases</b> with largely <b>unmet medical needs.</b>
+                        Elemental’s targets play a central role in multiple related diseases with significant unmet medical needs.
                     </p>
                     
                     </div>
