@@ -195,9 +195,9 @@
                 <div class="hero-slide" style="background-image: url('images/slider.jpg');">
                     <div class="container">
                         <div class="hero-content">
-                            <h5>Innovative Research</h5>
+                            <h5>Innovative Research <br>BREAKTHROUGH DISCOVERIES</h5>
                             <h1>BREAKTHROUGH<br>DISCOVERIES</h1>
-                            <p>Pioneer novel approaches to treating chronic inflammatory<br>conditions with therapies</p>
+                            <p>Pioneering novel approaches to treating chronic inflammatory<br>conditions with transformative therapies</p>
                             <a href="/pipeline.php" class="btn btn-light">Explore Our Pipeline</a>
                         </div>
                     </div>
