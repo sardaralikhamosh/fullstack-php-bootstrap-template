@@ -25,9 +25,9 @@
             <div class="row justify-content-center">
                 <center>
                     <div class="col-12 science-content">
-                    <h1 class="display-4 mb-4 custom-max-width">Extensive Pipeline Of Assets Supported By Strong Data</h1>
+                    <h1 class="display-4 mb-4 custom-max-width">Extensive Pipeline of Assets Supported by Strong Data</h1>
                     <p class="lead custom-max-width">
-                        Increasingly diversified pipeline of 5 advanced programs with strategically commercially viable targets demonstrating the strength of our pre-clinical mAb discovery and development platform.
+                        Our increasingly diversified pipeline includes five advanced programs targeting strategically and commercially viable indications, demonstrating the strength of our preclinical monoclonal antibody discovery and development platform.
                     </p>
                 </div>
                 </center>

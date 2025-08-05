@@ -31,7 +31,7 @@
                  <!--5-->
                  <?php include 'sections/home-section-2.php';?>
                     <!--6-->
-                 <?php include('section-3.php'); ?>
+                 <!-- <?php #include('section-3.php'); ?> -->
                
             <!-- <?php #include'sections/home-welcome-section.php';?>  -->
             <!--<?php #include 'sections/home-section-1.php';?>-->
