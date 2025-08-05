@@ -16,10 +16,10 @@
                     <div class="about-content">
                        
                         <p class="mb-4 feature-text">
-                            We are a biotech company engaged in the discovery and development of monoclonal antibodies (mAbs) as next-generation treatments for autoimmune and other inflammatory diseases.
+                            We are a biotech company dedicated to the discovery and development of next-generation monoclonal antibody therapies for autoimmune and other inflammatory diseases.
                         </p>
                         <p class="mb-4 feature-text">
-                            Our innovative monoclonal antibody (mAb) development approach focuses on targeting multiple disease areas where effective therapies are unavailable.
+                            Our innovative approach focuses on addressing multiple disease areas with high unmet medical need, where effective treatment options remain limited.
                         </p>
                         <!-- <a href="/about.php" class="btn btn-primary learn-more-btn">Learn More</a> -->
                     </div>

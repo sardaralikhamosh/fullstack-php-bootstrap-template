@@ -32,7 +32,7 @@
                                         <h5 class="mb-3">Autoimmune Disorders</h5>
                                         <ul class="list-unstyled mb-0">
                                             <li class="section2p mb-1">Rheumatoid arthritis</li>
-                                            <li class="section2p mb-1">Lupus</li>
+                                            <!-- <li class="section2p mb-1">Lupus</li> -->
                                             <li class="section2p ">Multiple sclerosis</li>
                                         </ul>
                                     </div>
@@ -83,9 +83,9 @@
                                         </div>
                                         <h5 class="mb-3">Fibrotic Diseases</h5>
                                         <ul class="list-unstyled mb-0">
-                                            <li class="section2p mb-1">Intestine</li>
-                                            <li class="section2p">Liver</li>
-                                            <li class="section2p">Lungs</li>
+                                            <li class="section2p mb-1">Inflammatory Bowel Disease (IBD) / Intestine Fibrosis</li>
+                                            <li class="section2p">Non-Alcoholic Steatohepatitis (NASH) / Liver Fibrosis</li>
+                                            <li class="section2p">Idiopathic Pulmonary Fibrosis (IPF) / Lung Fibrosis</li>
                                         </ul>
                                     </div>
                                 </div>
