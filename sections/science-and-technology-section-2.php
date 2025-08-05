@@ -14,7 +14,7 @@
                 <!-- Image Column with Angle -->
                 <div class="col-lg-7 col-md-12 about-image-container">
                     <div class="about-image displaynon-onmobile">
-                        <img src="./images/section-3-updated.png" alt="Elemental Biologics Laboratory" class="img-fluid">
+                        <img src="./images/new-image-0.png" alt="Elemental Biologics Laboratory" class="img-fluid">
                     </div>
                 </div>
                 
@@ -31,7 +31,7 @@
                 <!-- below section is only for mobile  -->
                  <div class="col-lg-7 col-md-12 about-image-container">
                     <div class="about-image displaynon-onlaptop">
-                        <img src="./images/section-3-updated.png" alt="Elemental Biologics Laboratory" class="img-fluid">
+                        <img src="./images/new-image-0.png" alt="Elemental Biologics Laboratory" class="img-fluid">
                     </div>
                 </div>
             </div>
