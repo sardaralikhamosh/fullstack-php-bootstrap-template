@@ -195,8 +195,8 @@
                 <div class="hero-slide" style="background-image: url('images/slider.jpg');">
                     <div class="container">
                         <div class="hero-content">
-                            <h5>Innovative Research <br>BREAKTHROUGH DISCOVERIES</h5>
-                            <h1>BREAKTHROUGH<br>DISCOVERIES</h1>
+                            <h5>Innovative Research</h5>
+                            <h1>BREAKTHROUGH <br>DISCOVERIES</h1>
                             <p>Pioneering novel approaches to treating chronic inflammatory<br>conditions with transformative therapies</p>
                             <a href="/pipeline.php" class="btn btn-light">Explore Our Pipeline</a>
                         </div>
@@ -210,8 +210,8 @@
                     <div class="container">
                         <div class="hero-content">
                             <h5>Excellence in Development</h5>
-                            <h1>PRECISION<br>MEDICINE</h1>
-                            <p>Creating tailored therapeutic solutions that address the root causes<br>of inflammatory disease mechanisms.</p>
+                            <h1>PRECISION MEDICINE</h1>
+                            <p>Delivering targeted therapeutic solutions that address the<br>underlying mechanisms of inflammatory diseases</p>
                             <a href="/about.php" class="btn btn-light">Learn About Us</a>
                         </div>
                     </div>
