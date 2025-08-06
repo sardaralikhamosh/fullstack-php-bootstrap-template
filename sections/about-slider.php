@@ -7,10 +7,6 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="./css/sub-pages-slider.css">
-    <style>
-        .banner-section {
-            background-image: url('../images/sections/page-banner-1-updated.jpg') !important;}
-    </style>
 </head>
 <body>
     <!-- Banner Section -->
