@@ -14,9 +14,9 @@
                 <!-- Content Column -->
                 <div class="col-lg-5 col-md-12 about-content-wrapper">
                     <div class="about-content">
-                        <h2>Targeted Discovery</h2>
+                       <h2>Advanced Antibody Engineering</h2>
                         <p class="mb-4 feature-text">
-                            We identify key immune pathways involved in multiple diseases, enabling cross-indication therapies with a single antibody.
+                            We use state-of-the-art techniques to design and optimize mAbs for maximum precision, potency, and safety.
                         </p>
                     </div>
                 </div>
