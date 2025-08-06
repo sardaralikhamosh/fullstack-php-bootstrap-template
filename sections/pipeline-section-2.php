@@ -17,7 +17,7 @@
                         <h2>Our Targets Strategically Reflect:</h2>
                         <p class="mb-4 feature-text">
                         Assets developed as Best-in-Class or First-in-Class monoclonal antibodies targeting key cellular and biochemical pathways underlying diseases of interest.
-                        <br>
+                        <br><br>
                         Elemental’s targets play a central role in multiple related diseases with significant unmet medical needs.
                     </p>
                     
